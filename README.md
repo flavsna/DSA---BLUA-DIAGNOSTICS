@@ -1,8 +1,11 @@
 # Sistema Blua - Gerenciamento de Filas para Teleconsultas
 
 ## Integrantes
-- Henry Vasconcellos (principal responsável pela lógica e implementação)
-- Colaboradores do grupo responsáveis por testes, validação e apoio no desenvolvimento
+- Henry Vasconcellos 
+- Ana Flávia Couto Chaves
+- Nicolly Giroto
+- Guilherme Santana
+- Erik Nikoluk
 
 ---
 
