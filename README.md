@@ -60,7 +60,7 @@ Operações implementadas:
 ### 1. Compile o código
 
 ```bash
-gcc SprintFinal-GUTTOGATII.c -o SprintFinal
+gcc SprintFinal.c -o SprintFinal
 ```
 
 ### 2. Execute
